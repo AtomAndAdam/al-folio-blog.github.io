@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://www.atomsir-blog.top/sitemap.xml
+User-agent: * Disallow: Sitemap: https://atomandadam.github.io/al-folio-blog.github.io/sitemap.xml
