@@ -1,20 +1,22 @@
 ---
 layout: about
-title: about
+title: Welcome
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 欢迎来到我的个人网站！
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>呢喃软院学子一枚.</p>
+    <p>221250053@smail.nju.edu.cn</p>
+    <p>
+    <a href='https://www.nju.edu.cn/'>NanJing University,China.</a>
+    </p>
+    
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +29,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Hola!**🎉这里是我的个人网站. 先介绍一下网站的结构. 上方导航栏展示了网站的主要内容: 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+在[Blog](https://www.atomsir-blog.top/blog/)中，是传统的个人博客那一套；在[Projects](https://www.atomsir-blog.top/projects/)中，是对个人参与的项目的记录；在[Repositories](https://www.atomsir-blog.top/repositories)中，是有关我**GitHub**账号和仓库的内容；`Submenus`包含了`news`和`cv`两个基本上不会单独点进去看的页面😂. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+右上角可以切换**白天/黑夜模式**. 非常关键，很多时候晚上熬夜看有的网站能把眼睛看瞎！
+
+网站的功能还不是很完全，很多的技术是[al-folio](https://github.com/alshedivat/al-folio)这个超强的theme完成的←_←. 若是对网站里的内容感兴趣可以在blog下评论（虽然说这个功能还处于TODO），进一步交流可以邮箱联系我.

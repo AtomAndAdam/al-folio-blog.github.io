@@ -343,10 +343,17 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.navbar-brand img {
+  height: 100%; /* 让图片的高度适应导航栏 */
+  max-height: 20px; /* 适当设置最大高度，避免图片过大 */
+  margin-right: 5px;
+  width: auto; /* 保持图片宽高比 */
+}
+
 .navbar-toggler {
   .icon-bar {
     display: block;
-    width: 22px;
+    width: 30px;
     height: 2px;
     background-color: var(--global-text-color);
     border-radius: 1px;
