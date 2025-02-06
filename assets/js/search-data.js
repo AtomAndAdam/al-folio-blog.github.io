@@ -93,6 +93,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-个人博客",
+          title: '个人博客',
+          description: "整个网站构建过程的有趣瞬间，技术栈记录。",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/";
             },},{
         id: 'social-email',
         title: 'email',
