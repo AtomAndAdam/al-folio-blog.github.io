@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: My github account info and project related repos.
+description: My github account info and project related repos. 这个页面使用了vercel提供的服务，因此你可能需要科学上网才能正常访问​:ghost:​
 nav: true
 nav_order: 3
 ---
