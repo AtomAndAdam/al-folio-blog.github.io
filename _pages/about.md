@@ -35,4 +35,4 @@ latest_posts:
 
 右上角可以切换**白天/黑夜模式**. 非常关键，很多时候晚上熬夜看有的网站能把眼睛看瞎！
 
-网站的功能还不是很完全，很多的技术是[al-folio](https://github.com/alshedivat/al-folio)这个超强的theme完成的←_←. 若是对网站里的内容感兴趣可以在blog下评论（虽然说这个功能还处于TODO），进一步交流可以邮箱联系我.
+网站的功能还不是很完全，很多的技术是[al-folio](https://github.com/alshedivat/al-folio)这个超强的theme完成的←_←. 若是对网站里的内容感兴趣可以在页面下评论，进一步交流可以邮箱联系我.
