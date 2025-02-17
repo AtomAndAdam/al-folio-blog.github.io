@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-blog-tutorial",
+            },{id: "post-数据库开发-lesson1",
+      
+        title: "数据库开发_lesson1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%80%E5%8F%91_Lesson1/";
+        
+      },
+    },{id: "post-blog-tutorial",
       
         title: "blog tutorial",
       
