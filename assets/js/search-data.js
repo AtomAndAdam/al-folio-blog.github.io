@@ -44,11 +44,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-db-devlopment-lesson1",
+            },{id: "post-数据库开发-lesson1",
       
-        title: "Db_devlopment_lesson1",
+        title: "数据库开发_Lesson1",
       
-      description: "",
+      description: "课后整理.",
       section: "Posts",
       handler: () => {
         
