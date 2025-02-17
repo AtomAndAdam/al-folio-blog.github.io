@@ -44,7 +44,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-数据库开发-lesson1",
+            },{id: "post-所有tags-amp-categories一览",
+      
+        title: "所有Tags&amp;Categories一览",
+      
+      description: "整个博客索引页.原生的archive管理系统可见性比较差.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Index/";
+        
+      },
+    },{id: "post-软工iii-lesson1",
+      
+        title: "软工III_Lesson1",
+      
+      description: "课后整理.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/SEIII_Lesson1/";
+        
+      },
+    },{id: "post-经验软件工程-lesson1",
+      
+        title: "经验软件工程_Lesson1",
+      
+      description: "课后整理.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Empirical_SE_Lesson1/";
+        
+      },
+    },{id: "post-数据库开发-lesson1",
       
         title: "数据库开发_Lesson1",
       
