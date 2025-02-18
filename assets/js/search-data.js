@@ -55,6 +55,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E4%B8%8E%E7%AE%A1%E7%90%86_Lesson1/";
         
       },
+    },{id: "post-深夜里听音乐的一些感想",
+      
+        title: "深夜里听音乐的一些感想",
+      
+      description: "音乐真是陪伴我的最好朋友之一了.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/%E6%B7%B1%E5%A4%9C%E9%87%8C%E5%90%AC%E9%9F%B3%E4%B9%90%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/";
+        
+      },
     },{id: "post-git的ssh认证",
       
         title: "git的ssh认证",
