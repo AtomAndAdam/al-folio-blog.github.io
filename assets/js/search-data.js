@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-所有tags-amp-categories一览",
+            },{id: "post-软件质量与管理-lesson1",
+      
+        title: "软件质量与管理_Lesson1",
+      
+      description: "课后整理.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E4%B8%8E%E7%AE%A1%E7%90%86_Lesson1/";
+        
+      },
+    },{id: "post-所有tags-amp-categories一览",
       
         title: "所有Tags&amp;Categories一览",
       
