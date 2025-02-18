@@ -63,7 +63,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/Index/";
+          window.location.href = "/blog/2025/Content/";
         
       },
     },{id: "post-软工iii-lesson1",
