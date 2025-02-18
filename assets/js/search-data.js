@@ -55,6 +55,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E4%B8%8E%E7%AE%A1%E7%90%86_Lesson1/";
         
       },
+    },{id: "post-git的ssh认证",
+      
+        title: "git的ssh认证",
+      
+      description: "做项目时遇到的要求.记录一下.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/git%E7%9A%84ssh%E8%AE%A4%E8%AF%81/";
+        
+      },
     },{id: "post-所有tags-amp-categories一览",
       
         title: "所有Tags&amp;Categories一览",
