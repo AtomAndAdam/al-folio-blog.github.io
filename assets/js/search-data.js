@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-软件质量与管理-lesson1",
+            },{id: "post-软件系统设计-lesson1",
+      
+        title: "软件系统设计_Lesson1",
+      
+      description: "课后整理.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1_Lesson1/";
+        
+      },
+    },{id: "post-软件质量与管理-lesson1",
       
         title: "软件质量与管理_Lesson1",
       
@@ -114,7 +125,7 @@ ninja.data = [{
       
         title: "数据库开发_Lesson1",
       
-      description: "课后整理.",
+      description: "没有期末考试.",
       section: "Posts",
       handler: () => {
         
@@ -175,6 +186,11 @@ ninja.data = [{
           description: "整个网站构建过程的有趣瞬间，技术栈记录。",
           section: "Projects",handler: () => {
               window.location.href = "/projects/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/";
+            },},{id: "projects-软工三项目",
+          title: '软工三项目',
+          description: "RAG程序&amp;评估",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%BD%AF%E5%B7%A5%E4%B8%89%E9%A1%B9%E7%9B%AE/";
             },},{
         id: 'social-email',
         title: 'email',
