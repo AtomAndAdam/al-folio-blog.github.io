@@ -13,7 +13,7 @@ layout: default
         {% for tag in site.tags %}
             <tr>
                 <td>
-                    <a href="{{ '/tag/' | append: tag[0] | slugify | relative_url }}">
+                    <a href="{{ '/tag/' | append: ":{{ tag[0] }}" | slugify | relative_url }}">
         {{ tag[0] }}
       </a> ({{ tag[1] | size }})
                 </td>

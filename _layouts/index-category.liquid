@@ -27,7 +27,7 @@ layout: default
         {% for category in site.categories %}
             <tr>
                 <td>
-                    <a href="{{ '/category/' | append: category[0] | slugify | relative_url }}">
+                    <a href="{{ '/category/' | append: ":{{ category[0] }}" | slugify | relative_url }}">
         {{ category[0] }}
       </a> ({{ category[1] | size }})
                 </td>
