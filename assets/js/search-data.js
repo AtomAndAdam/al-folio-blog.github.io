@@ -99,9 +99,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/git%E7%9A%84ssh%E8%AE%A4%E8%AF%81/";
         
       },
-    },{id: "post-所有tags-amp-categories一览",
+    },{id: "post-all-tags-amp-categories",
       
-        title: "所有Tags&amp;Categories一览",
+        title: "All Tags&amp;Categories",
       
       description: "整个博客索引页.原生的archive管理系统可见性比较差.",
       section: "Posts",
