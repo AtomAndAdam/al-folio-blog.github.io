@@ -1,11 +1,8 @@
----
-layout: default
----
 <div class="post">
-  <header class="post-header">
+  {% comment %} <header class="post-header">
     <h1 class="post-title"><i class="fa-solid fa-tag fa-sm"></i> {{ page.title }}</h1>
     <p class="post-description">an archive of all tags</p>
-  </header>
+  </header> {% endcomment %}
 
   <article class="archive">
     <div class="table-responsive">
@@ -13,7 +10,7 @@ layout: default
         {% for tag in site.tags %}
             <tr>
                 <td>
-                    <a href="{{ '/tag/' | append: ":{{ tag[0] }}" | slugify | relative_url }}">
+                    <a href="{{ '/tag/' | append: ':' | append:  tag[0]  | slugify | relative_url }}">
         {{ tag[0] }}
       </a> ({{ tag[1] | size }})
                 </td>
