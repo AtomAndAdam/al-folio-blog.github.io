@@ -24,9 +24,7 @@
         {% for category in site.categories %}
             <tr>
                 <td>
-                  <a href="{{ '/blog/category/' | append: category[0] | slugify | append: '/' | relative_url }}">
-                  {{ category[0] }}
-              </a> ({{ category[1] | size }})
+                  <a href="/blog/category/{{ category[0] | slugify }}/">{{ category[0] }}</a> ({{ category[1] | size }})
                 </td>
             </tr>
           {% endfor %}

@@ -10,9 +10,7 @@
         {% for tag in site.tags %}
             <tr>
                 <td>
-                  <a href="{{ '/blog/tag/' | append: tag[0] | slugify | append: '/' | relative_url }}">
-                  {{ tag[0] }}
-              </a> ({{ tag[1] | size }})
+                  <a href="/blog/tag/{{ tag[0] | slugify }}/">{{ tag[0] }}</a> ({{ tag[1] | size }})
                 </td>
             </tr>
           {% endfor %}
