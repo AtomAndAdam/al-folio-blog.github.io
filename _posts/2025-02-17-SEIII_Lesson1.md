@@ -7,7 +7,7 @@ tags: thirdYear_down SEIII note
 categories: Work
 ---
 
-这节课主要是课程项目介绍.
+实践为主的课程.涉及到的教学内容比较少.
 
 课程要做的是一个`RAG`应用以及与之配套的评估系统.
 
