@@ -197,6 +197,11 @@ ninja.data = [{
           description: "整个网站构建过程的有趣瞬间，技术栈记录。",
           section: "Projects",handler: () => {
               window.location.href = "/projects/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/";
+            },},{id: "projects-算法摘录",
+          title: '算法摘录',
+          description: "会的和不会的,都在这了",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E7%AE%97%E6%B3%95%E6%91%98%E5%BD%95/";
             },},{id: "projects-软工三项目",
           title: '软工三项目',
           description: "RAG程序&amp;评估",
