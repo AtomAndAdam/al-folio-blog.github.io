@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-美丽新世界-读后感",
+            },{id: "post-软件系统设计-lesson2",
+      
+        title: "软件系统设计_Lesson2",
+      
+      description: "课后整理.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1_Lesson2/";
+        
+      },
+    },{id: "post-美丽新世界-读后感",
       
         title: "《美丽新世界》读后感",
       
