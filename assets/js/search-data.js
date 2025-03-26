@@ -213,6 +213,11 @@ ninja.data = [{
           description: "会的和不会的,都在这了",
           section: "Projects",handler: () => {
               window.location.href = "/projects/%E7%AE%97%E6%B3%95%E6%91%98%E5%BD%95/";
+            },},{id: "projects-软件系统设计项目",
+          title: '软件系统设计项目',
+          description: "RAG程序&amp;评估",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A1%B9%E7%9B%AE/";
             },},{id: "projects-软工三项目",
           title: '软工三项目',
           description: "RAG程序&amp;评估",
