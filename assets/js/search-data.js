@@ -121,37 +121,15 @@ ninja.data = [{
           window.location.href = "/blog/2025/Content/";
         
       },
-    },{id: "post-软工iii-lesson1",
+    },{id: "post-软工iii",
       
-        title: "软工III_Lesson1",
+        title: "软工III",
       
-      description: "课后整理.",
+      description: "实践类型课程，没有笔记(几乎?)",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/SEIII_Lesson1/";
-        
-      },
-    },{id: "post-经验软件工程-lesson1",
-      
-        title: "经验软件工程_Lesson1",
-      
-      description: "课后整理.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Empirical_SE_Lesson1/";
-        
-      },
-    },{id: "post-数据库开发-lesson1",
-      
-        title: "数据库开发_Lesson1",
-      
-      description: "没有期末考试.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/DB_Devlopment_Lesson1/";
+          window.location.href = "/blog/2025/SEIII/";
         
       },
     },{id: "post-blog-tutorial",
@@ -213,6 +191,11 @@ ninja.data = [{
           description: "会的和不会的,都在这了",
           section: "Projects",handler: () => {
               window.location.href = "/projects/%E7%AE%97%E6%B3%95%E6%91%98%E5%BD%95/";
+            },},{id: "projects-读西瓜书",
+          title: '读西瓜书',
+          description: "南大人的AI圣经？",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%AF%BB%E8%A5%BF%E7%93%9C%E4%B9%A6/";
             },},{id: "projects-软件系统设计项目",
           title: '软件系统设计项目',
           description: "Java类图分析器",
