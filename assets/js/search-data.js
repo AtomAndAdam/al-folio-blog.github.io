@@ -44,18 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-软件系统设计-lesson2",
-      
-        title: "软件系统设计_Lesson2",
-      
-      description: "课后整理.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1_Lesson2/";
-        
-      },
-    },{id: "post-美丽新世界-读后感",
+            },{id: "post-美丽新世界-读后感",
       
         title: "《美丽新世界》读后感",
       
@@ -64,28 +53,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/%E7%BE%8E%E4%B8%BD%E6%96%B0%E4%B8%96%E7%95%8C-%E8%AF%BB%E5%90%8E%E6%84%9F/";
-        
-      },
-    },{id: "post-软件系统设计-lesson1",
-      
-        title: "软件系统设计_Lesson1",
-      
-      description: "课后整理.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1_Lesson1/";
-        
-      },
-    },{id: "post-软件质量与管理-lesson1",
-      
-        title: "软件质量与管理_Lesson1",
-      
-      description: "课后整理.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E4%B8%8E%E7%AE%A1%E7%90%86_Lesson1/";
         
       },
     },{id: "post-深夜里听音乐的一些感想",
@@ -119,17 +86,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/Content/";
-        
-      },
-    },{id: "post-软工iii",
-      
-        title: "软工III",
-      
-      description: "实践类型课程，没有笔记(几乎?)",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/SEIII/";
         
       },
     },{id: "post-blog-tutorial",
@@ -196,16 +152,6 @@ ninja.data = [{
           description: "南大人的AI圣经？",
           section: "Projects",handler: () => {
               window.location.href = "/projects/%E8%AF%BB%E8%A5%BF%E7%93%9C%E4%B9%A6/";
-            },},{id: "projects-软件系统设计项目",
-          title: '软件系统设计项目',
-          description: "Java类图分析器",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A1%B9%E7%9B%AE/";
-            },},{id: "projects-软工三项目",
-          title: '软工三项目',
-          description: "RAG程序&amp;评估",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/%E8%BD%AF%E5%B7%A5%E4%B8%89%E9%A1%B9%E7%9B%AE/";
             },},{
         id: 'social-email',
         title: 'email',
